@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roor22
 - 👀 I’m interested in FRC Robotics
 - 🌱 I’m currently learning Java
-- 📫 How to reach me is through my open source Q&A
+- 📫 idk how you should reach me
 - 😄 Pronouns: She/They
